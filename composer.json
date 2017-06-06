@@ -16,7 +16,7 @@
     "autoload": {
         "psr-4": {
             "Uapixart\\LaravelWayForPay\\": "src/"
-        },
+        }
     },
     "license": "MIT",
     "minimum-stability": "dev"
